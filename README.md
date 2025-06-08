@@ -35,7 +35,7 @@
     cd Calculator
     ```
 3.  **Open `Calculator.html`:**
-    You can then open the `calculator.html` file directly in your web browser.
+    You can then open the `Calculator.html` file directly in your web browser.
 
 ## 🤝 Contribution
 
